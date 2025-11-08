@@ -21,19 +21,4 @@ It collects live factory data, forecasts product demand, and alerts managers bef
 
 ## 🧩 Project Structure
 
-SupplyNext-Nexus/
-├── backend/ # FastAPI backend server
-│ ├── app.py
-│ └── supplynext.db
-├── iot_simulator/ # Simulated IoT devices
-│ ├── iot_simulator.py
-│ └── voice_input.py
-├── ai_engine/ # AI forecasting module
-│ ├── ai_engine.py
-│ └── forecast_data.json
-├── dashboard/ # Visualization dashboard
-│ ├── dashboard_app.py
-│ ├── team_logo.png
-│ └── style.css
-├── README.md
-└── requirements.txt
+
