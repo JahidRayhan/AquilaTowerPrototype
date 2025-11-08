@@ -1,0 +1,22 @@
+/* Team branding */
+[data-testid="stAppViewContainer"] {
+    background-color: #f8fafc;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* Header */
+h1 {
+    color: #0072CE;
+    text-align: center;
+}
+
+/* Dataframe styling */
+table {
+    border: 1px solid #0072CE;
+    border-radius: 6px;
+}
+
+/* Footer caption */
+footer {
+    visibility: hidden;
+}
