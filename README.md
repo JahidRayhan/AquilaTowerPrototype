@@ -33,7 +33,7 @@ cd ../iot_sim && python iot_simulator.py
 # 3️⃣ Launch Dashboard
 cd ../dashboard && streamlit run dashboard.py
 ```
-Then open your browser at 👉 [localhost:8501](./http://localhost:8501)
+Then open your browser at 👉 http://localhost:8501
 
 📖 **Full Setup Guide:** [View setup_instructions.md](./setup_instructions.md)
 
