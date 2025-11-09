@@ -24,10 +24,12 @@ It collects live factory data, forecasts product demand, and alerts managers bef
 ```bash
 # 1️⃣ Start Backend (API + DB)
 cd backend && uvicorn app:app --reload
-
+```
+```bash
 # 2️⃣ Run IoT Data Simulator
 cd ../iot_sim && python iot_simulator.py
-
+```
+```bash
 # 3️⃣ Launch Dashboard
 cd ../dashboard && streamlit run dashboard.py
 ```
